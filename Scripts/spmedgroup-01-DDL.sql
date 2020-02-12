@@ -1,4 +1,4 @@
-CREATE TABLE SpMedGroup;
+CREATE DATABASE SpMedGroup;
 GO
 
 USE SpMedGroup;
@@ -7,7 +7,7 @@ GO
 CREATE TABLE Clinica (
 	IdClinica INT PRIMARY KEY IDENTITY,
 	NomeClinica VARCHAR(200) NOT NULL UNIQUE,
-	HorarioFuncionamento TIME NOT NULL,
+	HorarioFuncionamento VARCHAR(20) NOT NULL,
 	CNPJ VARCHAR(20) NOT NULL,
 	RazaoSocial VARCHAR(200) NOT NULL
 );
@@ -19,7 +19,7 @@ CREATE TABLE TipoUsuario (
 
 CREATE TABLE Especialidade (
 	IdEspecialidade INT PRIMARY KEY IDENTITY,
-	NomeEspecialidade VARCHAR(20) NOT NULL UNIQUE
+	NomeEspecialidade VARCHAR(200) NOT NULL UNIQUE
 );
 
 CREATE Table Usuario (
@@ -28,6 +28,7 @@ CREATE Table Usuario (
 	Email VARCHAR(200) NOT NULL UNIQUE,
 	Senha VARCHAR(200) NOT NULL,
 	DataNasc DATETIME,
+	Telefone VARCHAR(200) NOT NULL,
 	RG VARCHAR(200) NOT NULL UNIQUE,
 	CPF VARCHAR(200) NOT NULL UNIQUE,
 	IdTipoUsuario INT FOREIGN KEY REFERENCES TipoUsuario (IdTipoUsuario) NOT NULL
@@ -64,7 +65,7 @@ CREATE TABLE Endereco (
 	Bairro VARCHAR(200) NOT NULL,
 	Cidade VARCHAR(200) NOT NULL,
 	Estado VARCHAR(200) NOT NULL,
-	Complemento VARCHAR(200) NOT NULL,
-	Telefone VARCHAR(200) NOT NULL
+	Complemento VARCHAR(200),
+	IdClinica INT FOREIGN KEY REFERENCES Clinica (IdClinica),
+	IdUsuario INT FOREIGN KEY REFERENCES Usuario (IdUsuario)
 );
-
