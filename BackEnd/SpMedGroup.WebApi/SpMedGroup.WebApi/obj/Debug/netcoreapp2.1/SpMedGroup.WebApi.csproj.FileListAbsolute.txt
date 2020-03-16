@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\senai_spmedgroup_sprint1_bd_tarde_MatheusSouzaSilva\BackEnd\SpMedGroup.WebApi\SpMedGroup.WebApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Pichau\Desktop\senai_spmedgroup_sprint1_bd_tarde_MatheusSouzaSilva\BackEnd\SpMedGroup.WebApi\SpMedGroup.WebApi\bin\Debug\netcoreapp2.1\SpMedGroup.WebApi.deps.json
+C:\Users\Pichau\Desktop\senai_spmedgroup_sprint1_bd_tarde_MatheusSouzaSilva\BackEnd\SpMedGroup.WebApi\SpMedGroup.WebApi\bin\Debug\netcoreapp2.1\SpMedGroup.WebApi.runtimeconfig.json
+C:\Users\Pichau\Desktop\senai_spmedgroup_sprint1_bd_tarde_MatheusSouzaSilva\BackEnd\SpMedGroup.WebApi\SpMedGroup.WebApi\bin\Debug\netcoreapp2.1\SpMedGroup.WebApi.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\senai_spmedgroup_sprint1_bd_tarde_MatheusSouzaSilva\BackEnd\SpMedGroup.WebApi\SpMedGroup.WebApi\bin\Debug\netcoreapp2.1\SpMedGroup.WebApi.dll
+C:\Users\Pichau\Desktop\senai_spmedgroup_sprint1_bd_tarde_MatheusSouzaSilva\BackEnd\SpMedGroup.WebApi\SpMedGroup.WebApi\obj\Debug\netcoreapp2.1\SpMedGroup.WebApi.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\senai_spmedgroup_sprint1_bd_tarde_MatheusSouzaSilva\BackEnd\SpMedGroup.WebApi\SpMedGroup.WebApi\obj\Debug\netcoreapp2.1\SpMedGroup.WebApi.RazorAssemblyInfo.cache
+C:\Users\Pichau\Desktop\senai_spmedgroup_sprint1_bd_tarde_MatheusSouzaSilva\BackEnd\SpMedGroup.WebApi\SpMedGroup.WebApi\obj\Debug\netcoreapp2.1\SpMedGroup.WebApi.RazorAssemblyInfo.cs
+C:\Users\Pichau\Desktop\senai_spmedgroup_sprint1_bd_tarde_MatheusSouzaSilva\BackEnd\SpMedGroup.WebApi\SpMedGroup.WebApi\obj\Debug\netcoreapp2.1\SpMedGroup.WebApi.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\senai_spmedgroup_sprint1_bd_tarde_MatheusSouzaSilva\BackEnd\SpMedGroup.WebApi\SpMedGroup.WebApi\obj\Debug\netcoreapp2.1\SpMedGroup.WebApi.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\senai_spmedgroup_sprint1_bd_tarde_MatheusSouzaSilva\BackEnd\SpMedGroup.WebApi\SpMedGroup.WebApi\obj\Debug\netcoreapp2.1\SpMedGroup.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Pichau\Desktop\senai_spmedgroup_sprint1_bd_tarde_MatheusSouzaSilva\BackEnd\SpMedGroup.WebApi\SpMedGroup.WebApi\bin\Debug\netcoreapp2.1\SpMedGroup.WebApi.pdb
+C:\Users\Pichau\Desktop\senai_spmedgroup_sprint1_bd_tarde_MatheusSouzaSilva\BackEnd\SpMedGroup.WebApi\SpMedGroup.WebApi\obj\Debug\netcoreapp2.1\SpMedGroup.WebApi.dll
+C:\Users\Pichau\Desktop\senai_spmedgroup_sprint1_bd_tarde_MatheusSouzaSilva\BackEnd\SpMedGroup.WebApi\SpMedGroup.WebApi\obj\Debug\netcoreapp2.1\SpMedGroup.WebApi.pdb
